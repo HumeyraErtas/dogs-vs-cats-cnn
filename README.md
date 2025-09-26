@@ -40,7 +40,7 @@ matplotlib
 pillow
 
 🗂 Veri Seti
-Kaynak: Kaggle – Dogs vs Cats   [https://www.kaggle.com/code/hmeyra/dogs-vs-cats-cnn/edit](https://www.kaggle.com/code/hmeyra/dogs-vs-cats-cnn)
+Kaynak: Kaggle – Dogs vs Cats   (https://www.kaggle.com/code/hmeyra/dogs-vs-cats-cnn)
 
 Toplam Görsel: 25.000 (12.500 kedi – 12.500 köpek)
 
